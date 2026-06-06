@@ -75,6 +75,5 @@ This project was proudly developed for **CodeSrijan 2026**.
 * **Team:** The Intellectuals
 * **Developers:** * swapnil - [https://www.linkedin.com/in/swapnil-arya-657589387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
   * naman priya sharama - [https://www.linkedin.com/in/naman-priya-sharma-90b075349]
-  * ashwin singh pramar - [https://www.linkedin.com/in/ashwin-singh-pramar-a297a336b]
 
 *In a world of generative AI, we need generative defense. Satya Ai is that defense.* 

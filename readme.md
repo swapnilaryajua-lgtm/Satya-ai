@@ -70,9 +70,6 @@ A great algorithm means nothing if it doesn’t help real people. Satya Ai is de
 
 ## 🤝 Contact & Team
 
-This project was proudly developed for **CodeSrijan 2026**. 
-
-* **Team:** The Intellectuals
 * **Developers:** * swapnil - [https://www.linkedin.com/in/swapnil-arya-657589387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
   * naman priya sharama - [https://www.linkedin.com/in/naman-priya-sharma-90b075349]
 
